@@ -1,0 +1,16 @@
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.csprojAssemblyReference.cache
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.AssemblyInfoInputs.cache
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.AssemblyInfo.cs
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.csproj.CoreCompileInputs.cache
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.exe
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.deps.json
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.runtimeconfig.json
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.runtimeconfig.dev.json
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.dll
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\ref\002-b.dll
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\bin\Debug\net5.0\002-b.pdb
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.dll
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\ref\002-b.dll
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.pdb
+D:\ProjectsToBuildUp\C#-dev\planing\000-Data-Structure\003-syntax\022-list\002-b\obj\Debug\net5.0\002-b.genruntimeconfig.cache

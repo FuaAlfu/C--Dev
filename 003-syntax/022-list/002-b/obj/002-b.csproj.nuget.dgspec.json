@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProjectsToBuildUp\\C#-dev\\planing\\000-Data-Structure\\003-syntax\\022-list\\002-b\\002-b.csproj": {}
+  },
+  "projects": {
+    "D:\\ProjectsToBuildUp\\C#-dev\\planing\\000-Data-Structure\\003-syntax\\022-list\\002-b\\002-b.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProjectsToBuildUp\\C#-dev\\planing\\000-Data-Structure\\003-syntax\\022-list\\002-b\\002-b.csproj",
+        "projectName": "002-b",
+        "projectPath": "D:\\ProjectsToBuildUp\\C#-dev\\planing\\000-Data-Structure\\003-syntax\\022-list\\002-b\\002-b.csproj",
+        "packagesPath": "C:\\Users\\mrfah\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjectsToBuildUp\\C#-dev\\planing\\000-Data-Structure\\003-syntax\\022-list\\002-b\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mrfah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
